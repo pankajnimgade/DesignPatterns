@@ -8,10 +8,10 @@ import java.util.Scanner;
  */
 public class TestDriveOne {
 
-    private static  char[] ALPHABETS = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N',
-                                        'O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+    private static char[] ALPHABETS = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
+            'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("########## Phone Number ##########");
         String phone_Number_String = null;
@@ -20,8 +20,8 @@ public class TestDriveOne {
             System.out.println("Phone number should be between 7 to 10 digit number");
             phoneNumber_Long = in.nextLong();
             phone_Number_String = String.valueOf(phoneNumber_Long);
-            System.out.println("The number is: "+phone_Number_String+" Length: "+phone_Number_String.length());
-        }while (phone_Number_String.length() < 7 || phone_Number_String.length() > 10);
+            System.out.println("The number is: " + phone_Number_String + " Length: " + phone_Number_String.length());
+        } while (phone_Number_String.length() < 7 || phone_Number_String.length() > 10);
 
         calculateCombinations(phone_Number_String);
     }
@@ -31,14 +31,14 @@ public class TestDriveOne {
         int counter = phoneNumber_array.length;
         ArrayList<PhoneNumber> phoneNumbers = new ArrayList<>();
 
-        for (int i = 0; i <counter ; i++) {
-            ArrayList<PhoneNumber> myPhoneNumber = createPhoneNumber(i,phone_Number_String.toCharArray());
+        for (int i = 0; i < counter; i++) {
+            ArrayList<PhoneNumber> myPhoneNumber = createPhoneNumber(i, phone_Number_String.toCharArray());
             phoneNumbers.addAll(myPhoneNumber);
         }
 
-        System.out.println("Combinations: "+phoneNumbers.size());
+        System.out.println("Combinations: " + phoneNumbers.size());
 
-        for (PhoneNumber number :phoneNumbers) {
+        for (PhoneNumber number : phoneNumbers) {
             System.out.println(number.getPhoneNumber());
         }
 
@@ -57,8 +57,18 @@ public class TestDriveOne {
 
 }
 
-class PhoneNumber{
-    private static long id=0;
+/**
+ * This class represents a Phone Number
+ */
+class PhoneNumber {
+    /**
+     * At a given instance of the application each instance of {@link PhoneNumber PhoneNumber}
+     * have a unique id
+     */
+    private static long id = 0;
+    /**
+     * This represents value of phone number of the instance
+     */
     private String phoneNumber;
 
     public PhoneNumber(String phoneNumber) {
@@ -66,7 +76,7 @@ class PhoneNumber{
         this.phoneNumber = phoneNumber;
     }
 
-    public static PhoneNumber newInstance(String number){
+    public static PhoneNumber newInstance(String number) {
         return new PhoneNumber(number);
     }
 
