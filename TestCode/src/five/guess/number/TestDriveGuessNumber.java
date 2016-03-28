@@ -43,7 +43,7 @@ public class TestDriveGuessNumber {
 
     }
 
-    /**this where guessing starts*/
+    /**this is where guessing starts*/
     private static void startGame() {
 
         String response = null;
