@@ -2,28 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01efb30f-ef24-4284-89e1-667e0e8dfd55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/PizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/TestDrivePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleGreekPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStyleGreekPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleCheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleGreekPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleVeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/TestDrivePizzaStore.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/CheesePizza.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/CheesePizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/ClamPizza.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/ClamPizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/GreekPizza.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/GreekPizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/PepperoniPizza.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/PepperoniPizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/SimplePizzaFactory.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/SimplePizzaFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/VeggiePizza.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/one/test/source/VeggiePizza.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java" afterPath="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +33,78 @@
     <favorites_list name="DesignPattern" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CaliforniaStyleCheesePizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleCheesePizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaliforniaStyleClamPizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleClamPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaliforniaStyleGreekPizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleGreekPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaliforniaStylePepperoniPizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePepperoniPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaliforniaStyleVeggiePizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleVeggiePizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaliforniaStylePizzaStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePizzaStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDrivePizzaStore.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/TestDrivePizzaStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,10 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestCode/src/two/test/source/BadException.java" />
-        <option value="$PROJECT_DIR$/TestCode/src/two/test/source/TestDriveTwo.java" />
-        <option value="$PROJECT_DIR$/TestCode/src/one/test/source/TestDriveOne.java" />
-        <option value="$PROJECT_DIR$/TestCode/src/third/test/source/scaryexception/ScaryException.java" />
         <option value="$PROJECT_DIR$/TestCode/src/third/test/source/scaryexception/TestDriveScaryException.java" />
         <option value="$PROJECT_DIR$/TestCode/src/four/test/laundryexception/LaundryException.java" />
         <option value="$PROJECT_DIR$/TestCode/src/four/test/laundryexception/PathsException.java" />
@@ -113,6 +168,14 @@
         <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleVeggiePizza.java" />
         <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/PizzaStore.java" />
         <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePizzaStore.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleClamPizza.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleGreekPizza.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleVeggiePizza.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePizzaStore.java" />
+        <option value="$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/TestDrivePizzaStore.java" />
       </list>
     </option>
   </component>
@@ -211,6 +274,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -227,10 +294,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,27 +336,7 @@
       <recent name="F:\IntelliJ Idea Projects\DesignPattern\JunitTutorial\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDrivePizza">
-    <configuration default="false" name="TestDriveLaundry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="four.test.laundryexception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="four.test.laundryexception.TestDriveLaundry" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="TestCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestDrivePizzaStore">
     <configuration default="false" name="TestDriveGuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -368,6 +411,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="one.test.source.TestDrivePizza" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BakingWithOOGoodness" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDrivePizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="two.test.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="two.test.source.TestDrivePizzaStore" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -638,19 +701,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestDriveLaundry" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestDriveGuessNumber" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestRunner" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MyTests.multiplicationOfZeroIntegersShouldReturnZero" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestDrivePizza" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestDriveGuessNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestRunner" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyTests.multiplicationOfZeroIntegersShouldReturnZero" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestDrivePizza" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestDrivePizzaStore" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestDrivePizza" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyTests.multiplicationOfZeroIntegersShouldReturnZero" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestRunner" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestDriveGuessNumber" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestDriveLaundry" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDrivePizzaStore" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestDrivePizza" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyTests.multiplicationOfZeroIntegersShouldReturnZero" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestRunner" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestDriveGuessNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -715,7 +778,14 @@
       <option name="project" value="LOCAL" />
       <updated>1459448106696</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first testing of a method">
+      <created>1459497297795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1459497297795</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -734,17 +804,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32136753" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6632479" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32136753" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -753,14 +825,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32136753" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -794,62 +864,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/Sequencer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/MidiDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/pattern/test/one/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/Sequencer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="120" column="20" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/MidiDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="142" column="20" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/MidiSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="521" column="33" selection-start-line="521" selection-start-column="33" selection-end-line="521" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/javax/sound/midi/MidiUnavailableException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCode/src/two/test/source/BadException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1090,74 +1104,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#240#241#0" expanded="false" />
-            <element signature="e#290#291#0" expanded="false" />
-            <element signature="e#330#331#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#462#463#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#288#289#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#375#376#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#460#461#0" expanded="false" />
-            <element signature="e#499#500#0" expanded="false" />
-            <element signature="e#545#546#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleGreekPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#239#240#0" expanded="false" />
-            <element signature="e#289#290#0" expanded="false" />
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#376#377#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#243#244#0" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
-            <element signature="e#419#420#0" expanded="false" />
-            <element signature="e#465#466#0" expanded="false" />
-            <element signature="e#504#505#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleVeggiePizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1175,26 +1121,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/NYStylePizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStylePepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/ChicagoStyleGreekPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/PizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleGreekPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStyleVeggiePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/CaliforniaStylePizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakingWithOOGoodness/src/two/test/source/TestDrivePizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
         </state>
       </provider>

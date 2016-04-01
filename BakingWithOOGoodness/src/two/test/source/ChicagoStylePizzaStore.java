@@ -3,21 +3,21 @@ package two.test.source;
 /**
  * Created by Pankaj Nimgade on 01-04-2016.
  */
-public class NYStylePizzaStore extends PizzaStore {
+public class ChicagoStylePizzaStore extends PizzaStore {
 
     @Override
     protected Pizza createPizza(String type) {
         Pizza pizza = null;
         if (type.equalsIgnoreCase("cheese")) {
-            pizza = new NYStyleCheesePizza();
+            pizza = new ChicagoStyleCheesePizza();
         } else if (type.equalsIgnoreCase("clam")) {
-            pizza = new NYStyleClamPizza();
+            pizza = new ChicagoStyleClamPizza();
         } else if (type.equalsIgnoreCase("greek")) {
-            pizza = new NYStyleGreekPizza();
+            pizza = new ChicagoStyleGreekPizza();
         } else if (type.equalsIgnoreCase("pepperoni")) {
-            pizza = new NYStylePepperoniPizza();
+            pizza = new ChicagoStylePepperoniPizza();
         } else if (type.equalsIgnoreCase("veggie")) {
-            pizza = new NYStyleVeggiePizza();
+            pizza = new ChicagoStyleCheesePizza();
         }
         return pizza;
     }
