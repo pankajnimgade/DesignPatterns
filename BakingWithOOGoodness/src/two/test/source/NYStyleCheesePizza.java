@@ -1,9 +1,9 @@
-package one.test.source;
+package two.test.source;
 
 /**
  * Created by Pankaj Nimgade on 28-03-2016.
  */
-public class PepperoniPizza implements Pizza {
+public class NYStyleCheesePizza implements Pizza {
 
     private final String TAG = this.getClass().getSimpleName();
 

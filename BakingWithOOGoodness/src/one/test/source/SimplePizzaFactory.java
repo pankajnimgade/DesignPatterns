@@ -5,7 +5,7 @@ package one.test.source;
  */
 public class SimplePizzaFactory {
 
-    public static Pizza createPizza(String pizzaType){
+    public Pizza createPizza(String pizzaType){
         Pizza pizza = null;
         if (pizzaType.equalsIgnoreCase("cheese")) {
             pizza = new CheesePizza();
@@ -15,6 +15,8 @@ public class SimplePizzaFactory {
             pizza = new GreekPizza();
         } else  if (pizzaType.equalsIgnoreCase("pepperoni")) {
             pizza = new PepperoniPizza();
+        } else  if (pizzaType.equalsIgnoreCase("veggie")) {
+            pizza = new VeggiePizza();
         }
         return pizza;
     }
