@@ -1,5 +1,7 @@
 package two.test.source;
 
+import java.util.ArrayList;
+
 /**
  * Created by Pankaj Nimgade on 28-03-2016.
  * This interface has the functions which would be implemented by the concrete classes,
@@ -8,6 +10,11 @@ package two.test.source;
  * @author Pankaj Nimgade
  */
 public interface Pizza {
+
+    String name = null;
+    String dough = null;
+    String sauce = null;
+    ArrayList<String> toppings = new ArrayList<>();
 
     /**
      * implementation of this method prepares the Pizza
