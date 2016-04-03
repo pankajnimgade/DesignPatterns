@@ -15,7 +15,6 @@ public class ChocolateBoiler {
     private boolean boiled;
 
     private ChocolateBoiler() {
-
         this.empty = true;
         this.boiled = false;
     }
