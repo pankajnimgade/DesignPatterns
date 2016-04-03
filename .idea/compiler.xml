@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="JunitTutorial" />
+        <module name="Singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JunitTutorial" target="1.5" />
       <module name="JUnitTutorial" target="1.5" />
+      <module name="Singleton" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

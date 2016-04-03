@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BakingWithOOGoodness/BakingWithOOGoodness.iml" filepath="$PROJECT_DIR$/BakingWithOOGoodness/BakingWithOOGoodness.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" filepath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/TestCode/TestCode.iml" />
     </modules>
   </component>
