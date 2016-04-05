@@ -5,8 +5,11 @@ package three.source.test.vendor.classes;
  */
 public class CeilingFan {
 
-    public void high() {
+    private final String TAG = this.getClass().getSimpleName();
 
+    public void high() {
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 
     public void medium() {
@@ -18,7 +21,8 @@ public class CeilingFan {
     }
 
     public void off() {
-
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 
     public void getSpeed() {

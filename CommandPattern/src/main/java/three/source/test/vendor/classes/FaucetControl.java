@@ -5,11 +5,15 @@ package three.source.test.vendor.classes;
  */
 public class FaucetControl {
 
-    public void openValue(){
+    private final String TAG = this.getClass().getSimpleName();
 
+    public void openValue(){
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 
     public void closeValue(){
-
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 }

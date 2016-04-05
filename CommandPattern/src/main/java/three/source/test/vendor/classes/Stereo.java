@@ -5,12 +5,16 @@ package three.source.test.vendor.classes;
  */
 public class Stereo {
 
-    public void on(){
+    private final String TAG = this.getClass().getSimpleName();
 
+    public void on(){
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 
     public void off(){
-
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 
     public void setCD(){

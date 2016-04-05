@@ -25,6 +25,7 @@ public class GarageDoor {
     }
 
     public void lightOff(){
-
+        String methodName = new Object(){}.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG+"\t running:\t "+methodName);
     }
 }
