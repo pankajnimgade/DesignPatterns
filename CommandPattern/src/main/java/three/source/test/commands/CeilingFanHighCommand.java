@@ -16,4 +16,8 @@ public class CeilingFanHighCommand implements Command {
     public void execute() {
         ceilingFan.high();;
     }
+
+    public void undo() {
+        ceilingFan.off();
+    }
 }

@@ -19,4 +19,10 @@ public interface Command {
      * */
     void execute();
 
+    /**
+     * This command is used to undo the actions taken place in execute
+     * <p>In another words we reverse what happened in execute<p/>
+     * */
+    void undo();
+
 }

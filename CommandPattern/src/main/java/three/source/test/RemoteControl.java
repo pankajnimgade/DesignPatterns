@@ -15,6 +15,7 @@ public class RemoteControl {
 
     Command[] onCommands;
     Command[] offCommands;
+    Command undoCommand;
 
     public RemoteControl() {
         this.onCommands = new Command[7];
@@ -26,6 +27,7 @@ public class RemoteControl {
             onCommands[i] = command;
             offCommands[i] = command;
         }
+        undoCommand = new NoCommand();
     }
 
     public void setCommand(int slot, Command onCommand, Command offCommand) {
@@ -35,9 +37,15 @@ public class RemoteControl {
 
     public void onButtonWasPushed(int slot) {
         this.onCommands[slot].execute();
+        undoCommand =  this.onCommands[slot];
     }
 
     public void offButtonWasPushed(int slot) {
         this.offCommands[slot].execute();
+        undoCommand = offCommands[slot];
+    }
+
+    public void undoButtonWasPushed(){
+        undoCommand.undo();
     }
 }

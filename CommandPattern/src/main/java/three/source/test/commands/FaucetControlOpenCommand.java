@@ -16,4 +16,8 @@ public class FaucetControlOpenCommand implements Command {
     public void execute() {
         faucetControl.openValue();
     }
+
+    public void undo() {
+        faucetControl.closeValue();
+    }
 }

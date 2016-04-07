@@ -16,4 +16,8 @@ public class StereoOnCommand implements Command {
     public void execute() {
         stereo.on();
     }
+
+    public void undo() {
+        stereo.off();
+    }
 }

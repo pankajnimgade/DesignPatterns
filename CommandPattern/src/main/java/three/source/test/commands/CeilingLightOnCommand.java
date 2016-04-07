@@ -16,4 +16,8 @@ public class CeilingLightOnCommand implements Command {
     public void execute() {
         this.ceilingLight.on();
     }
+
+    public void undo() {
+        ceilingLight.off();
+    }
 }
