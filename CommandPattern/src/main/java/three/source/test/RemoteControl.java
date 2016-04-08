@@ -48,4 +48,14 @@ public class RemoteControl {
     public void undoButtonWasPushed(){
         undoCommand.undo();
     }
+
+    @Override
+    public String toString() {
+        StringBuffer stringBuffer = new StringBuffer();
+        stringBuffer.append("---------Remote Control---------\n");
+        for (int i = 0; i < onCommands.length; i++) {
+            stringBuffer.append("Slot: "+i+"\t\t"+onCommands[i].getClass().getName()+"\t\t"+offCommands[i].getClass().getName()+"\n");
+        }
+        return stringBuffer.toString();
+    }
 }

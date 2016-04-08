@@ -22,12 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="AdapterPattern" />
         <module name="CommandPattern" />
         <module name="JunitTutorial" />
         <module name="Singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AdapterPattern" target="1.5" />
       <module name="CommandPattern" target="1.5" />
       <module name="JunitTutorial" target="1.5" />
       <module name="JUnitTutorial" target="1.5" />
