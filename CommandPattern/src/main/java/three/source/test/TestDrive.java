@@ -10,7 +10,7 @@ public class TestDrive {
 
     public static void main(String[] args){
         RemoteControl remoteControl = new RemoteControl();
-        CeilingFan ceilingFan = new CeilingFan();
+        CeilingFan ceilingFan = new CeilingFan("medium");
         Command ceilingFanHighCommand = new CeilingFanHighCommand(ceilingFan);
         Command ceilingFanOffCommand = new CeilingFanOffCommand(ceilingFan);
         remoteControl.setCommand(0, ceilingFanHighCommand, ceilingFanOffCommand);
