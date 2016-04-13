@@ -1,17 +1,18 @@
 package three.facade.pattern.sub.system.classes;
 
 /**
- * Created by Pankaj Nimgade on 13-04-2016.
+ * Created by Pankaj Nimgade on 14-04-2016.
  */
-public class Amplifier {
+public class Tunner {
 
     private final String TAG = this.getClass().getSimpleName();
 
-    private int tuner;
-    private String dvdPlaver;
-    private int cdPlayer;
+    private String amplifier;
 
-    public Amplifier() {
+    public Tunner() {
+        String methodName = new Object() {
+        }.getClass().getEnclosingMethod().getName();
+        System.out.println(TAG + "\t running:\t " + methodName);
     }
 
     public void on() {
@@ -26,39 +27,22 @@ public class Amplifier {
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setCD() {
+    public void setAM() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setDVD() {
+    public void setFM() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setStereoSound() {
+    public void setFrequency() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setSurroundSound() {
-        String methodName = new Object() {
-        }.getClass().getEnclosingMethod().getName();
-        System.out.println(TAG + "\t running:\t " + methodName);
-    }
-
-    public void setTunner() {
-        String methodName = new Object() {
-        }.getClass().getEnclosingMethod().getName();
-        System.out.println(TAG + "\t running:\t " + methodName);
-    }
-
-    public void setVolume() {
-        String methodName = new Object() {
-        }.getClass().getEnclosingMethod().getName();
-        System.out.println(TAG + "\t running:\t " + methodName);
-    }
 }

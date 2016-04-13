@@ -1,17 +1,15 @@
 package three.facade.pattern.sub.system.classes;
 
 /**
- * Created by Pankaj Nimgade on 13-04-2016.
+ * Created by Pankaj Nimgade on 14-04-2016.
  */
-public class Amplifier {
+public class DvdPlayer {
 
     private final String TAG = this.getClass().getSimpleName();
 
-    private int tuner;
-    private String dvdPlaver;
-    private int cdPlayer;
+    private Amplifier amplifier;
 
-    public Amplifier() {
+    public DvdPlayer() {
     }
 
     public void on() {
@@ -26,37 +24,25 @@ public class Amplifier {
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setCD() {
+    public void eject() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setDVD() {
+    public void play() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setStereoSound() {
+    public void pause() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
     }
 
-    public void setSurroundSound() {
-        String methodName = new Object() {
-        }.getClass().getEnclosingMethod().getName();
-        System.out.println(TAG + "\t running:\t " + methodName);
-    }
-
-    public void setTunner() {
-        String methodName = new Object() {
-        }.getClass().getEnclosingMethod().getName();
-        System.out.println(TAG + "\t running:\t " + methodName);
-    }
-
-    public void setVolume() {
+    public void stop() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
