@@ -5,6 +5,5 @@ package one.adpter.pattern;
  */
 public class TestDriveOne {
     public static void main(String[] args) {
-
     }
 }
