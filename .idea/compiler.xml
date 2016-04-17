@@ -25,6 +25,7 @@
         <module name="AdapterPattern" />
         <module name="CommandPattern" />
         <module name="JunitTutorial" />
+        <module name="RabbitMQ" />
         <module name="Singleton" />
       </profile>
     </annotationProcessing>
@@ -33,6 +34,7 @@
       <module name="CommandPattern" target="1.5" />
       <module name="JunitTutorial" target="1.5" />
       <module name="JUnitTutorial" target="1.5" />
+      <module name="RabbitMQ" target="1.5" />
       <module name="Singleton" target="1.5" />
     </bytecodeTargetLevel>
   </component>
