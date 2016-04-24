@@ -37,6 +37,7 @@
         <option value="$PROJECT_DIR$/CommandPattern/pom.xml" />
         <option value="$PROJECT_DIR$/AdapterPattern/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/TemplateMethodPattern/pom.xml" />
       </list>
     </option>
   </component>

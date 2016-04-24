@@ -9,7 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" filepath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" filepath="$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/TestCode/TestCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database-connectivity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/database-connectivity_main.iml" group="database-connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database-connectivity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/database-connectivity_test.iml" group="database-connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database-source_test.iml" filepath="$PROJECT_DIR$/.idea/modules/database-source_test.iml" group="database-source" />
     </modules>
   </component>
 </project>
