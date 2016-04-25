@@ -1,28 +1,26 @@
-package two.source.template.method;
+package three.source.template.method;
 
 /**
  * Created by Pankaj Nimgade on 25-04-2016.
  */
-public abstract class CaffeineBeverage {
+public class Tea extends CaffeineBeverage {
 
     private final String TAG = this.getClass().getSimpleName();
 
-    public CaffeineBeverage() {
+    public Tea() {
     }
-    /**
-     * this is the abstract method which will be implemented by the subclasses of this class
-     * */
-    public abstract void  prepareRecipe();
 
-    public void boilWater(){
+    public void brew() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
+        System.out.println("Steeping the Tea");
     }
 
-    public void pourInCup() {
+    public void addCondiments() {
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
         System.out.println(TAG + "\t running:\t " + methodName);
+        System.out.println("Adding the Lemon");
     }
 }
