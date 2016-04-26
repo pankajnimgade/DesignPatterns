@@ -10,7 +10,9 @@ public abstract class CaffeineBeverage {
     public CaffeineBeverage() {
     }
     /**
-     * this is the abstract method which will be implemented by the subclasses of this class
+     * this is the abstract method which will be implemented by the subclasses of this class<br>
+     * this method is final so that subclasses won't be able to change it.<br>
+     * this method describes Template Method Pattern
      * */
     public final void  prepareRecipe(){
 
