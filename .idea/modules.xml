@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BakingWithOOGoodness/BakingWithOOGoodness.iml" filepath="$PROJECT_DIR$/BakingWithOOGoodness/BakingWithOOGoodness.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" filepath="$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" />
       <module fileurl="file://$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" filepath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" filepath="$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />

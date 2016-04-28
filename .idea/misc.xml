@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/AdapterPattern/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ/pom.xml" />
         <option value="$PROJECT_DIR$/TemplateMethodPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/IteratorPattarn/pom.xml" />
       </list>
     </option>
   </component>
