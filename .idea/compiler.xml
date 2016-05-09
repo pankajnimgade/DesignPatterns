@@ -39,7 +39,7 @@
       <module name="database-connectivity_main" target="1.5" />
       <module name="database-connectivity_test" target="1.5" />
       <module name="database-source_test" target="1.5" />
-      <module name="EasyRules" target="1.7" />
+      <module name="EasyRules" target="1.5" />
       <module name="IteratorPattarn" target="1.5" />
       <module name="JunitTutorial" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
