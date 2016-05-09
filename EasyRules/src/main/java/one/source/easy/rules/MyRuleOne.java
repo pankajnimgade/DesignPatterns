@@ -3,20 +3,23 @@ package one.source.easy.rules;
 import org.easyrules.core.BasicRule;
 
 /**
- * Created by Pankaj Nimgade on 09-05-2016.
+ * Created by Pankaj Nimgade on 09-05-2016.<br><br>
+ * We can create Easy rules by  implementing the {@link org.easyrules.api.Rule} interface or extending the {@link BasicRule} class.<br><br>
+ * In this class we are using {@link BasicRule}
  */
-public class MyRule extends BasicRule {
+public class MyRuleOne extends BasicRule {
 
     private BusinessData businessData; // this is the data i need to operate on
 
-    public MyRule(BusinessData businessData) {
+    public MyRuleOne(BusinessData businessData) {
         this.businessData = businessData;
     }
 
-    public MyRule(String name, String description, BusinessData businessData) {
+    public MyRuleOne(String name, String description, BusinessData businessData) {
         super(name, description);
         this.businessData = businessData;
     }
+
 
     @Override
     public boolean evaluate() {
