@@ -15,6 +15,7 @@ public class Receive {
     public static final String IP_ADDRESS = "162.144.209.190";
     public static final String USERNAME = "test";
     public static final String PASSWORD = "test";
+    public static final int PORT = 5672;
 
     public static void main(String[] args) throws Exception {
 
@@ -22,10 +23,11 @@ public class Receive {
         factory.setHost(IP_ADDRESS);
         factory.setUsername(USERNAME);
         factory.setPassword(PASSWORD);
+        factory.setPort(PORT);
         Connection connection = factory.newConnection();
 
         Channel channel = connection.createChannel();
-        channel.exchangeDeclare(EXCHANGE_NAME, "topic");
+        channel.exchangeDeclare(EXCHANGE_NAME, "topic",true);
 
         String queueName = channel.queueDeclare().getQueue();
         channel.queueBind(queueName, EXCHANGE_NAME, ROUTING_KEY_NAME);
