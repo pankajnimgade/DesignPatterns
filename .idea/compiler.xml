@@ -31,6 +31,7 @@
         <module name="Singleton" />
         <module name="StackOverflow" />
         <module name="TemplateMethodPattern" />
+        <module name="TreeFunction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,6 +47,7 @@
       <module name="Singleton" target="1.5" />
       <module name="StackOverflow" target="1.5" />
       <module name="TemplateMethodPattern" target="1.5" />
+      <module name="TreeFunction" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
