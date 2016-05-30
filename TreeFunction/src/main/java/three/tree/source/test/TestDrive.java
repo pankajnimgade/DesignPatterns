@@ -26,12 +26,4 @@ public class TestDrive {
     public static void showText(String text) {
         System.out.println(text);
     }
-
-    /**
-     {
-     "file2": "some_file2",
-     "file3": "some_file3",
-     "file1": "some_file1"
-     }
-     */
 }
