@@ -1,38 +1,31 @@
 Example 1:
 
-           {
-             "map": {
-               "file_1 - Copy (5).txt": "F:\\Resume\\file_1 - Copy (5).txt",
-               "file_1 - Copy (7).txt": "F:\\Resume\\file_1 - Copy (7).txt",
-               "file_1 - Copy (2).txt": "F:\\Resume\\file_1 - Copy (2).txt",
-               "file_1 - Copy (6).txt": "F:\\Resume\\file_1 - Copy (6).txt",
-               "file_1 - Copy (9).txt": "F:\\Resume\\file_1 - Copy (9).txt",
-               "file_1 - Copy (3).txt": "F:\\Resume\\file_1 - Copy (3).txt",
-               "file_1 - Copy.txt": "F:\\Resume\\file_1 - Copy.txt",
-               "file_1.txt": "F:\\Resume\\file_1.txt",
-               "file_1 - Copy (4).txt": "F:\\Resume\\file_1 - Copy (4).txt",
-               "file_1 - Copy (8).txt": "F:\\Resume\\file_1 - Copy (8).txt"
-             },
-             "formats": {
-               "name_3": {
-
-               },
-               "name_2": {
-                 "map": {
-                   "file_3.txt": "F:\\Resume\\name_2\\file_3.txt"
-                 },
-                 "formats": {
-                   "name_3": {
-                     "map": {
-                       "files.txt": "F:\\Resume\\name_2\\name_3\\files.txt"
-                     }
-                   }
-                 }
-               },
-               "some_name": {
-                 "map": {
-                   "file_4.txt": "F:\\Resume\\some_name\\file_4.txt"
-                 }
-               }
-             }
-           }
+          {
+            "directory": {
+              "drawable-mdpi": {
+                "files": {
+                  "ic_3d_rotation_black_24dp.png": "F:\\books\\incoming\\Wajin UI\\android\\drawable-mdpi\\ic_3d_rotation_black_24dp.png"
+                }
+              },
+              "drawable-xxhdpi": {
+                "files": {
+                  "ic_3d_rotation_black_24dp.png": "F:\\books\\incoming\\Wajin UI\\android\\drawable-xxhdpi\\ic_3d_rotation_black_24dp.png"
+                }
+              },
+              "drawable-xhdpi": {
+                "files": {
+                  "ic_3d_rotation_black_24dp.png": "F:\\books\\incoming\\Wajin UI\\android\\drawable-xhdpi\\ic_3d_rotation_black_24dp.png"
+                }
+              },
+              "drawable-xxxhdpi": {
+                "files": {
+                  "ic_3d_rotation_black_24dp.png": "F:\\books\\incoming\\Wajin UI\\android\\drawable-xxxhdpi\\ic_3d_rotation_black_24dp.png"
+                }
+              },
+              "drawable-hdpi": {
+                "files": {
+                  "ic_3d_rotation_black_24dp.png": "F:\\books\\incoming\\Wajin UI\\android\\drawable-hdpi\\ic_3d_rotation_black_24dp.png"
+                }
+              }
+            }
+          }

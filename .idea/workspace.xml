@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01efb30f-ef24-4284-89e1-667e0e8dfd55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/Format.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/TestDriveFour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/three/tree/source/test/ReadMe.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeFunction/src/main/java/three/tree/source/test/TestDrive.java" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/three/tree/source/test/TestDrive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/Format.java" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/Format.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/ReadMe.md" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/ReadMe.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/TestDriveFour.java" afterPath="$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/TestDriveFour.java" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,13 +78,13 @@
       <file leaf-file-name="TestDriveFour.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/TestDriveFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+            <state relative-caret-position="124">
+              <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#779#795#0" expanded="true" />
-                <element signature="e#858#874#0" expanded="true" />
-                <element signature="e#1987#2003#0" expanded="true" />
+                <element signature="e#807#823#0" expanded="true" />
+                <element signature="e#886#902#0" expanded="true" />
+                <element signature="e#2015#2031#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,8 +93,8 @@
       <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/ReadMe.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -105,17 +103,18 @@
       <file leaf-file-name="Format.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/Format.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="204">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1705,13 +1704,6 @@
       <option name="presentableId" value="Default" />
       <updated>1458758867933</updated>
     </task>
-    <task id="LOCAL-00002" summary="code is been commented">
-      <created>1459162412438</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1459162412438</updated>
-    </task>
     <task id="LOCAL-00003" summary="code is been commented..">
       <created>1459162551436</created>
       <option name="number" value="00003" />
@@ -2048,7 +2040,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464599089293</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="completed the tree command of windows, the format outputs in JSON">
+      <created>1464603017713</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1464603017713</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2145,7 +2144,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added tea and coffee classes" />
     <MESSAGE value="added abstract class CaffeineBeverage which is subclassed by Tea and coffee to get common methods in supper class" />
     <MESSAGE value="reworking the inheritance so more abstraction can be provided in template method pattern" />
     <MESSAGE value="generic form of Template Method Pattern" />
@@ -2170,7 +2168,8 @@
     <MESSAGE value="added a tree function Module" />
     <MESSAGE value="added code to traverse through file structure" />
     <MESSAGE value="checked with Gson with map" />
-    <option name="LAST_COMMIT_MESSAGE" value="checked with Gson with map" />
+    <MESSAGE value="completed the tree command of windows, the format outputs in JSON" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed the tree command of windows, the format outputs in JSON" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.65680474" />
   </component>
   <component name="XDebuggerManager">
@@ -2569,38 +2568,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/Format.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="204">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/TestDriveFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        <state relative-caret-position="124">
+          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#779#795#0" expanded="true" />
-            <element signature="e#858#874#0" expanded="true" />
-            <element signature="e#1987#2003#0" expanded="true" />
+            <element signature="e#807#823#0" expanded="true" />
+            <element signature="e#886#902#0" expanded="true" />
+            <element signature="e#2015#2031#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeFunction/src/main/java/four/tree/source/test/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="510">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
           <folding />
         </state>
       </provider>

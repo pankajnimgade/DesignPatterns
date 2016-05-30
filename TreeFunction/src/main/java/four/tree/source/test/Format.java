@@ -1,5 +1,7 @@
 package four.tree.source.test;
 
+import com.google.gson.annotations.SerializedName;
+
 import java.util.HashMap;
 
 /**
@@ -7,8 +9,10 @@ import java.util.HashMap;
  */
 public class Format {
 
+    @SerializedName("files")
     HashMap<String, String> map;
 
+    @SerializedName("directory")
     HashMap<String, Format> formats;
 
     public Format() {
