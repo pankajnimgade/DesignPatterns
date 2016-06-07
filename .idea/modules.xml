@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" filepath="$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" filepath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" filepath="$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleXmlFramework/SimpleXmlFramework.iml" filepath="$PROJECT_DIR$/SimpleXmlFramework/SimpleXmlFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackOverflow/StackOverflow.iml" filepath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" />
