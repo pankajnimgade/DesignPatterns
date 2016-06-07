@@ -32,6 +32,7 @@
         <module name="StackOverflow" />
         <module name="TemplateMethodPattern" />
         <module name="TreeFunction" />
+        <module name="TriposoExcel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -48,6 +49,7 @@
       <module name="StackOverflow" target="1.5" />
       <module name="TemplateMethodPattern" target="1.5" />
       <module name="TreeFunction" target="1.5" />
+      <module name="TriposoExcel" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

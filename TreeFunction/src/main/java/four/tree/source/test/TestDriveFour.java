@@ -11,7 +11,7 @@ import java.util.HashMap;
 public class TestDriveFour {
 
     private static final String TAG = TestDriveFour.class.getSimpleName();
-    private static final String PATH = "F:\\books\\incoming\\Wajin UI\\android";
+    private static final String PATH = "F:\\books\\ttc";
 
     public static void main(String[] args) throws Exception {
         showText(TAG);
