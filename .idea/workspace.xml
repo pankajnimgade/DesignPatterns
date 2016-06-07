@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01efb30f-ef24-4284-89e1-667e0e8dfd55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsoupTutorial/src/main/java/one/test/tutorial/TestDriveOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsoupTutorial/src/main/java/two/test/tutorial/TestDriveTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" afterPath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EasyRules/EasyRules.iml" afterPath="$PROJECT_DIR$/EasyRules/EasyRules.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" afterPath="$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" afterPath="$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" afterPath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" afterPath="$PROJECT_DIR$/RabbitMQ/RabbitMQ.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Singleton/Singleton.iml" afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" afterPath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" afterPath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/TestCode.iml" afterPath="$PROJECT_DIR$/TestCode/TestCode.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeFunction/TreeFunction.iml" afterPath="$PROJECT_DIR$/TreeFunction/TreeFunction.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TriposoExcel/TriposoExcel.iml" afterPath="$PROJECT_DIR$/TriposoExcel/TriposoExcel.iml" />
     </list>
     <ignored path="DesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,72 +73,7 @@
     <favorites_list name="DesignPattern" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TriposoExcel/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDriveOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/TestDriveOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Region.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/Region.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Destination.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/Destination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JsoupTutorial/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDriveOne.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JsoupTutorial/src/main/java/one/test/tutorial/TestDriveOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -732,7 +680,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/helloe/world/MyLinks.java" />
         <option value="$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/hello/world/ReadMe.md" />
         <option value="$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/hello/world/MyLinks.java" />
         <option value="$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/hello/world/Recv.java" />
@@ -783,6 +730,7 @@
         <option value="$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/Destination.java" />
         <option value="$PROJECT_DIR$/JsoupTutorial/pom.xml" />
         <option value="$PROJECT_DIR$/JsoupTutorial/src/main/java/one/test/tutorial/TestDriveOne.java" />
+        <option value="$PROJECT_DIR$/JsoupTutorial/src/main/java/two/test/tutorial/TestDriveTwo.java" />
       </list>
     </option>
   </component>
@@ -1003,7 +951,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>Since15</id>
           </State>
         </selected-state>
       </profile-state>
@@ -1040,6 +988,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="DesignPattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1081,6 +1033,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JsoupTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1173,7 +1155,7 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -1192,7 +1174,7 @@
       <recent name="F:\IntelliJ Idea Projects\DesignPattern\RabbitMQ\src\main\java\four\rabbitmq\source\server" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDriveOne (1)">
+  <component name="RunManager" selected="Application.TestDriveTwo">
     <configuration default="false" name="Receive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1201,26 +1183,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="five.rabbitmq.source.remote.Receive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="RabbitMQ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CallTestRequest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="five.rabbitmq.source.remote.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="five.rabbitmq.source.remote.CallTestRequest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1281,6 +1243,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="one.test.tutorial.TestDriveOne" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JsoupTutorial" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDriveTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="two.test.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="two.test.tutorial.TestDriveTwo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1628,18 +1610,18 @@
       <item index="1" class="java.lang.String" itemvalue="Application.TestDriveTreeOne" />
       <item index="2" class="java.lang.String" itemvalue="Groovy.build" />
       <item index="3" class="java.lang.String" itemvalue="Application.Receive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CallTestRequest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TestDrive" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TestDriveFour" />
-      <item index="7" class="java.lang.String" itemvalue="Application.TestDriveOne (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestDrive" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestDriveFour" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TestDriveOne (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Application.TestDriveTwo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestDriveOne (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestDriveFour" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Receive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CallTestRequest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDriveTwo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestDriveOne (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestDriveFour" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Receive" />
       </list>
     </recent_temporary>
   </component>
@@ -1665,13 +1647,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1458758867933</updated>
-    </task>
-    <task id="LOCAL-00006" summary="first testing of a method">
-      <created>1459448106696</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1459448106696</updated>
     </task>
     <task id="LOCAL-00007" summary="first testing of a method">
       <created>1459497297795</created>
@@ -2009,7 +1984,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465289827890</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Jsoup - tutorial first test code added">
+      <created>1465290768090</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1465290768090</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2028,7 +2010,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2040,12 +2022,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34188035" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.86153847" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8225256" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22012103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22012103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2147,34 +2129,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/routing/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/publish/subscribe/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/work/queue/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="28" column="85" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/topics/ReadMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ/src/main/java/five/rabbitmq/source/remote/work/queue/MyLinks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -2510,23 +2464,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JsoupTutorial/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JsoupTutorial/src/main/java/one/test/tutorial/TestDriveOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#565#566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsoupTutorial/src/main/java/two/test/tutorial/Japan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JsoupTutorial/src/main/java/one/test/tutorial/TestDriveOne.java">
+    <entry file="file://$PROJECT_DIR$/JsoupTutorial/src/main/java/two/test/tutorial/TestDriveTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="98">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsoupTutorial/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2583,11 +2575,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>StackOverflow</last-edited>
+          <last-edited>TriposoExcel</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
