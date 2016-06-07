@@ -26,6 +26,7 @@
         <module name="CommandPattern" />
         <module name="EasyRules" />
         <module name="IteratorPattarn" />
+        <module name="JsoupTutorial" />
         <module name="JunitTutorial" />
         <module name="RabbitMQ" />
         <module name="Singleton" />
@@ -43,6 +44,7 @@
       <module name="database-source_test" target="1.5" />
       <module name="EasyRules" target="1.5" />
       <module name="IteratorPattarn" target="1.5" />
+      <module name="JsoupTutorial" target="1.5" />
       <module name="JunitTutorial" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
       <module name="Singleton" target="1.5" />
