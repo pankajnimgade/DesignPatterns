@@ -27,7 +27,7 @@ public class Receive {
         Connection connection = factory.newConnection();
 
         Channel channel = connection.createChannel();
-        channel.exchangeDeclare(EXCHANGE_NAME, "topic",true);
+        channel.exchangeDeclare(EXCHANGE_NAME, "topic", true);
 
         String queueName = channel.queueDeclare().getQueue();
         channel.queueBind(queueName, EXCHANGE_NAME, ROUTING_KEY_NAME);
@@ -44,4 +44,17 @@ public class Receive {
         };
         channel.basicConsume(queueName, true, consumer);
     }
+
+
+    /*
+
+    {
+  "from_id": "1",
+  "to_id": "2",
+  "chat_message": "a text message",
+  "chat_message_id": "9121465492332",
+  "languages_id": "1",
+  "created_at": 1465492332
+    }
+    * */
 }
