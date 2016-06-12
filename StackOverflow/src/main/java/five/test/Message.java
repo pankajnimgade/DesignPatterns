@@ -3,7 +3,7 @@ package five.test;
 /**
  * Created by Pankaj Nimgade on 09-06-2016.
  */
-public class Message {
+public class Message implements Comparable<Message> {
 
     private long id;
     private long from_id;
@@ -89,6 +89,13 @@ public class Message {
 
     @Override
     public String toString() {
-        return "id: " + id + " from_id: " + from_id + " to_id: " + to_id + " chat_message: " + chat_message + " chat_message_id: " + chat_message_id;
+        return  " chat_message_id: " + chat_message_id+" id: " + id
+                + " from_id: " + from_id + " to_id: " + to_id + " chat_message: " + chat_message;
+    }
+
+    public int compareTo(Message message) {
+
+        return (int) (this.chat_message_id - message.getChat_message_id());//ascending order
+//        return (int) (message.getChat_message_id() - this.chat_message_id);//descending order
     }
 }

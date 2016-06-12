@@ -3,7 +3,7 @@ package seven.sort;
 /**
  * Created by Pankaj Nimgade on 11-06-2016.
  */
-public class Message {
+public class Message implements Comparable<Message> {
 
     private long id;
     private long from_id;
@@ -85,5 +85,11 @@ public class Message {
 
     public void setIs_read(int is_read) {
         this.is_read = is_read;
+    }
+
+    public int compareTo(Message message) {
+
+        return (int) (this.chat_message_id - message.getChat_message_id());//ascending order
+//        return (int) (message.getChat_message_id() - this.chat_message_id);//descending order
     }
 }

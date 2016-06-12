@@ -38,22 +38,22 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="AdapterPattern" target="1.8" />
-      <module name="CommandPattern" target="1.8" />
+      <module name="AdapterPattern" target="1.5" />
+      <module name="CommandPattern" target="1.5" />
       <module name="database-connectivity_main" target="1.8" />
       <module name="database-connectivity_test" target="1.8" />
       <module name="database-source_test" target="1.8" />
-      <module name="EasyRules" target="1.8" />
-      <module name="IteratorPattarn" target="1.8" />
-      <module name="JsoupTutorial" target="1.8" />
-      <module name="JunitTutorial" target="1.8" />
-      <module name="RabbitMQ" target="1.8" />
-      <module name="SimpleXmlFramework" target="1.8" />
+      <module name="EasyRules" target="1.5" />
+      <module name="IteratorPattarn" target="1.5" />
+      <module name="JsoupTutorial" target="1.5" />
+      <module name="JunitTutorial" target="1.5" />
+      <module name="RabbitMQ" target="1.5" />
+      <module name="SimpleXmlFramework" target="1.5" />
       <module name="Singleton" target="1.5" />
-      <module name="StackOverflow" target="1.8" />
-      <module name="TemplateMethodPattern" target="1.8" />
-      <module name="TreeFunction" target="1.8" />
-      <module name="TriposoExcel" target="1.8" />
+      <module name="StackOverflow" target="1.5" />
+      <module name="TemplateMethodPattern" target="1.5" />
+      <module name="TreeFunction" target="1.5" />
+      <module name="TriposoExcel" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
