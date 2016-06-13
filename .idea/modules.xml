@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleXmlFramework/SimpleXmlFramework.iml" filepath="$PROJECT_DIR$/SimpleXmlFramework/SimpleXmlFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackOverflow/StackOverflow.iml" filepath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodPattern/TemplateMethodPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/TestCode/TestCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreeFunction/TreeFunction.iml" filepath="$PROJECT_DIR$/TreeFunction/TreeFunction.iml" />

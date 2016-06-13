@@ -95,7 +95,7 @@ public class Message implements Comparable<Message> {
 
     public int compareTo(Message message) {
 
-        return (int) (this.chat_message_id - message.getChat_message_id());//ascending order
-//        return (int) (message.getChat_message_id() - this.chat_message_id);//descending order
+//        return (int) (this.chat_message_id - message.getChat_message_id());//ascending order
+        return (int) (message.getChat_message_id() - this.chat_message_id);//descending order
     }
 }
