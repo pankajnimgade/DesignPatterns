@@ -42,7 +42,7 @@ public class GumballMachine {
         } else if (state == SOLD) {
             printText("Sorry you already turned the crank");
         } else if (state == SOLD_OUT) {
-            printText("You can't eject, you haven't inserted a quarter yet");
+                    printText("You can't eject, you haven't inserted a quarter yet");
         }
     }
 
