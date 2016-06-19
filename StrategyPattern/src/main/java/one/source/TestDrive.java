@@ -24,8 +24,8 @@ public class TestDrive {
          * */
     }
 
-    public static void printText(String text) {
-        System.out.println("" + text);
-    }
+        public static void printText(String text) {
+            System.out.println("" + text);
+        }
 
 }
