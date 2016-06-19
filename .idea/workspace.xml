@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01efb30f-ef24-4284-89e1-667e0e8dfd55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/img/strategy_pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/img/strategy_seq.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/ReadMe.md" afterPath="$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/ReadMe.md" />
     </list>
@@ -71,12 +71,19 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strategy_seq.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/img/strategy_seq.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -1721,13 +1728,6 @@
       <option name="presentableId" value="Default" />
       <updated>1458758867933</updated>
     </task>
-    <task id="LOCAL-00020" summary="added DuckAdapter which lets a Turkey client use a duck instance as if it was a Turkey">
-      <created>1460366933912</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1460366933912</updated>
-    </task>
     <task id="LOCAL-00021" summary="facade pattern with sub-system">
       <created>1460571170840</created>
       <option name="number" value="00021" />
@@ -2064,7 +2064,14 @@
       <option name="project" value="LOCAL" />
       <updated>1466346254825</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="edit added image">
+      <created>1466346967157</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1466346967157</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2161,7 +2168,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="worker queue  example added to the RabbitMQ Module" />
     <MESSAGE value="publish-subscriber  example added to the RabbitMQ Module" />
     <MESSAGE value="routing  example added to the RabbitMQ Module" />
     <MESSAGE value="topic  example added to the RabbitMQ Module" />
@@ -2186,7 +2192,8 @@
     <MESSAGE value="applied state pattern to the issue in hand" />
     <MESSAGE value="Added Strategy pattern module" />
     <MESSAGE value="added image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added image" />
+    <MESSAGE value="edit added image" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit added image" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.65680474" />
   </component>
   <component name="XDebuggerManager">
@@ -2202,13 +2209,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/TestDriveOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TriposoExcel/src/main/java/one/test/check/Region.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -2569,14 +2569,19 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/img/strategy_seq.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/StrategyPattern/src/main/java/one/source/ReadMe.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
