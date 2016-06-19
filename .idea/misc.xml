@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/JsoupTutorial/pom.xml" />
         <option value="$PROJECT_DIR$/SimpleXmlFramework/pom.xml" />
         <option value="$PROJECT_DIR$/StatePattern/pom.xml" />
+        <option value="$PROJECT_DIR$/StrategyPattern/pom.xml" />
       </list>
     </option>
   </component>

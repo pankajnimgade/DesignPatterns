@@ -33,6 +33,7 @@
         <module name="Singleton" />
         <module name="StackOverflow" />
         <module name="StatePattern" />
+        <module name="StrategyPattern" />
         <module name="TemplateMethodPattern" />
         <module name="TreeFunction" />
         <module name="TriposoExcel" />
@@ -53,6 +54,7 @@
       <module name="Singleton" target="1.5" />
       <module name="StackOverflow" target="1.5" />
       <module name="StatePattern" target="1.5" />
+      <module name="StrategyPattern" target="1.5" />
       <module name="TemplateMethodPattern" target="1.5" />
       <module name="TreeFunction" target="1.5" />
       <module name="TriposoExcel" target="1.5" />
