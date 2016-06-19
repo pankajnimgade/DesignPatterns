@@ -3,9 +3,6 @@ _Defines a set of encapsulated algorithms that can be swapped to carry out a spe
 
 _The Strategy pattern provides a way to define a family of algorithms, encapsulate each one as an object, and make them interchangeable._ 
 
-
-
-![](img/strategy_pattern.png?raw=true "Title")
 ![](/img/strategy_pattern.png?raw=true "Title")
 
 In the above diagram Context is composed of a Strategy. 
