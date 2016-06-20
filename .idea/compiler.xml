@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -47,7 +48,7 @@
       <module name="database-source_test" target="1.8" />
       <module name="EasyRules" target="1.5" />
       <module name="IteratorPattarn" target="1.5" />
-      <module name="JsoupTutorial" target="1.5" />
+      <module name="JsoupTutorial" target="1.8" />
       <module name="JunitTutorial" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
       <module name="SimpleXmlFramework" target="1.5" />
@@ -57,7 +58,7 @@
       <module name="StrategyPattern" target="1.5" />
       <module name="TemplateMethodPattern" target="1.5" />
       <module name="TreeFunction" target="1.5" />
-      <module name="TriposoExcel" target="1.5" />
+      <module name="TriposoExcel" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
