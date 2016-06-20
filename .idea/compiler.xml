@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="Eclipse" />
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -58,7 +57,7 @@
       <module name="StrategyPattern" target="1.5" />
       <module name="TemplateMethodPattern" target="1.5" />
       <module name="TreeFunction" target="1.5" />
-      <module name="TriposoExcel" target="1.8" />
+      <module name="TriposoExcel" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
