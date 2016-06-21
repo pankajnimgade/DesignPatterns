@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/SimpleXmlFramework/pom.xml" />
         <option value="$PROJECT_DIR$/StatePattern/pom.xml" />
         <option value="$PROJECT_DIR$/StrategyPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/GuavaTutorial/pom.xml" />
       </list>
     </option>
   </component>

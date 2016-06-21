@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/EasyRules/EasyRules.iml" filepath="$PROJECT_DIR$/EasyRules/EasyRules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuavaTutorial/GuavaTutorial.iml" filepath="$PROJECT_DIR$/GuavaTutorial/GuavaTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" filepath="$PROJECT_DIR$/IteratorPattarn/IteratorPattarn.iml" />
       <module fileurl="file://$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" filepath="$PROJECT_DIR$/JsoupTutorial/JsoupTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" filepath="$PROJECT_DIR$/JunitTutorial/JunitTutorial.iml" />

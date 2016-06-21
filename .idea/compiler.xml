@@ -25,6 +25,7 @@
         <module name="AdapterPattern" />
         <module name="CommandPattern" />
         <module name="EasyRules" />
+        <module name="GuavaTutorial" />
         <module name="IteratorPattarn" />
         <module name="JsoupTutorial" />
         <module name="JunitTutorial" />
@@ -46,8 +47,9 @@
       <module name="database-connectivity_test" target="1.8" />
       <module name="database-source_test" target="1.8" />
       <module name="EasyRules" target="1.5" />
+      <module name="GuavaTutorial" target="1.8" />
       <module name="IteratorPattarn" target="1.5" />
-      <module name="JsoupTutorial" target="1.8" />
+      <module name="JsoupTutorial" target="1.5" />
       <module name="JunitTutorial" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
       <module name="SimpleXmlFramework" target="1.5" />
