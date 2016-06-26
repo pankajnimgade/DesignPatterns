@@ -7,12 +7,22 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/DatabaseConnectivity" />
         <option name="gradleHome" value="F:/books/incoming/Softwares/gradle/gradle-2.12" />
         <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/DatabaseConnectivity" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/DatabaseSource" />
         <option name="gradleHome" value="F:/books/incoming/Softwares/gradle/gradle-2.12" />
         <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/DatabaseSource" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
