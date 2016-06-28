@@ -45,5 +45,23 @@
             <artifactId>okhttp</artifactId>
             <version>2.7.5</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.tika/tika-core -->
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-core</artifactId>
+            <version>1.13</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.codehaus.guessencoding/guessencoding -->
+        <dependency>
+            <groupId>org.codehaus.guessencoding</groupId>
+            <artifactId>guessencoding</artifactId>
+            <version>1.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.any23/apache-any23-core -->
+        <dependency>
+            <groupId>org.apache.any23</groupId>
+            <artifactId>apache-any23-core</artifactId>
+            <version>1.1</version>
+        </dependency>
     </dependencies>
 </project>

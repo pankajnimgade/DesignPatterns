@@ -49,7 +49,7 @@
       <module name="EasyRules" target="1.5" />
       <module name="GuavaTutorial" target="1.5" />
       <module name="IteratorPattarn" target="1.5" />
-      <module name="JsoupTutorial" target="1.5" />
+      <module name="JsoupTutorial" target="1.8" />
       <module name="JunitTutorial" target="1.5" />
       <module name="RabbitMQ" target="1.5" />
       <module name="SimpleXmlFramework" target="1.5" />

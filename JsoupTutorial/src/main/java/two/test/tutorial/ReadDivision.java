@@ -1,11 +1,14 @@
 package two.test.tutorial;
 
+import com.glaforge.i18n.io.CharsetToolkit;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.File;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 
 /**
@@ -21,6 +24,8 @@ public class ReadDivision {
         File file = new File(file_path);
 
         if (file.exists()) {
+            Charset charset = CharsetToolkit.guessEncoding(file, 4096, StandardCharsets.UTF_8);
+            printText(""+charset);
             printText("yes file exists\n");
 
             Document document = Jsoup.parse(file, "UTF-8");
