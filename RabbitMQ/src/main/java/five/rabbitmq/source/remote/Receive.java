@@ -48,13 +48,15 @@ public class Receive {
 
     /*
 
-    {
-  "from_id": "1",
-  "to_id": "2",
-  "chat_message": "a text message",
-  "chat_message_id": "9121465492332",
-  "languages_id": "1",
-  "created_at": 1465492332
-    }
+        {
+          "from_id": "1",
+          "to_id": "2",
+          "chat_message_en": "Hello man",
+          "chat_message_es": "Hola hombre",
+          "chat_message_id": 1468217494112,
+          "languages_id": "1",
+          "created_at": 1468217494
+        }
+        
     * */
 }

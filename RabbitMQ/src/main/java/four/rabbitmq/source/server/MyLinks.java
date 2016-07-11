@@ -10,7 +10,7 @@ public class MyLinks {
     }
 
     public static class Credentials {
-        public static final String USERNAME = "parrot";
-        public static final String PASSWORD = "parrot";
+        public static final String USERNAME = "test";
+        public static final String PASSWORD = "test";
     }
 }
