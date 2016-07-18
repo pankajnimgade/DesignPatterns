@@ -19,7 +19,7 @@ public class GoogleTranslate_1 {
 //        String url = "https://www.googleapis.com/language/translate/v2/languages?key=AIzaSyCb47xXjpyCdV9xDRftgCBeYGlCm1g2QSI";
         String url = "https://www.googleapis.com/language/translate/v2?key=AIzaSyCb47xXjpyCdV9xDRftgCBeYGlCm1g2QSI&q=hello+world&source=en&target=de";
         String build_url = url + "&q=hello+world" + "&source=en" + "&target=es";
-        Request request = new Request.Builder().url(url).build();
+        Request request = new Request.Builder().url(build_url).build();
         Response execute = okHttpClient.newCall(request).execute();
         String string = execute.body().string();
         System.out.println("result:\n" + string);
