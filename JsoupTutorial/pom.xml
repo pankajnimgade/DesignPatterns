@@ -45,12 +45,6 @@
             <artifactId>okhttp</artifactId>
             <version>2.7.5</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.tika/tika-core -->
-        <dependency>
-            <groupId>org.apache.tika</groupId>
-            <artifactId>tika-core</artifactId>
-            <version>1.13</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.codehaus.guessencoding/guessencoding -->
         <dependency>
             <groupId>org.codehaus.guessencoding</groupId>
